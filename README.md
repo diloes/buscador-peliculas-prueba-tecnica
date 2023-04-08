@@ -7,20 +7,24 @@ API a usar:
 - https://www.omdbapi.com
 - API_KEY: af989299
 
-// https://www.omdbapi.com/?apikey=af989299&s=Avengers
-
 Requerimientos:
 
 [x] Necesita mostrar un input para buscar la película y un botón para buscar.
+
 [x] Lista las películas encontradas y muestra el título, año y poster.
+
 [x] Dale funcionalidad al form
+
 [x] Haz que las películas se muestren en un grid responsive.
+
 [x] Hacer fetching de datos a la API
 
 Primera iteración:
 
 [x] Evitar que se haga la misma búsqueda dos veces seguidas.
+
 [x] Haz que la búsqueda se haga automáticamente al escribir.
+
 [x] Evita que se haga la búsqueda continuamente al escribir (debounce).
 
 ## Mis Apuntes
